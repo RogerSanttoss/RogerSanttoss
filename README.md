@@ -2,7 +2,7 @@ Hi there 👋
 
 🔭 Trabalho na área de front end
 
-- 🌱 Estou estudando React
+- 🌱 Estou estudando Django
 - 📫 Quero iniciar minha carreira na área de tecnologia 
 
  <div>
